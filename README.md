@@ -1,10 +1,10 @@
 https://chat-with-any-pdf-lk1612kselmp83kt5gcvc4.streamlit.app/   (Deployment Link)
 
-# Chat with Your PDF 📄💬
+# Chat with Your PDF 
 
 This is a simple web application built with Streamlit and LangChain that allows you to upload a PDF document and ask questions about its content. The app uses Google's Gemini 1.5 Flash model to understand the document and provide intelligent answers.
 
-## ✨ Features
+##  Features
 
 -   **Upload PDFs**: Easily upload any PDF document directly through the web interface.
 -   **Conversational Q&A**: Ask questions in natural language and get answers based on the document's content.
@@ -13,7 +13,7 @@ This is a simple web application built with Streamlit and LangChain that allows 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to set up and run the project on your local machine.
 
@@ -61,7 +61,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 -   **Framework**: Streamlit
 -   **LLM Orchestration**: LangChain
@@ -71,6 +71,6 @@ Follow these instructions to set up and run the project on your local machine.
 
 ---
 
-## ☁️ Deployment
+##  Deployment
 
 This application is deployed on **Streamlit Community Cloud**. Any changes pushed to the `main` branch of the GitHub repository will trigger an automatic redeployment.
